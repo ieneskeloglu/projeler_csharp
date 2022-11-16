@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.exe
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.deps.json
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.runtimeconfig.json
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.dll
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\ref\Projeler_csharp.dll
+C:\Users\DELL\Desktop\Projeler_csharp\bin\Debug\net5.0\Projeler_csharp.pdb
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.dll
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\ref\Projeler_csharp.dll
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.pdb
+C:\Users\DELL\Desktop\Projeler_csharp\obj\Debug\net5.0\Projeler_csharp.genruntimeconfig.cache
