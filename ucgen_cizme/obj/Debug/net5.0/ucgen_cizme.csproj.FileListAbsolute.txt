@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.exe
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ref\ucgen_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\bin\Debug\net5.0\ucgen_cizme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ref\ucgen_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\ucgen_cizme\obj\Debug\net5.0\ucgen_cizme.genruntimeconfig.cache
