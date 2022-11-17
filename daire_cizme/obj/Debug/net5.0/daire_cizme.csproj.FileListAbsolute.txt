@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.exe
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\ref\daire_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\bin\Debug\net5.0\daire_cizme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\ref\daire_cizme.dll
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\daire_cizme\obj\Debug\net5.0\daire_cizme.genruntimeconfig.cache
