@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.exe
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.dll
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\ref\alan_hesaplama.dll
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\bin\Debug\net5.0\alan_hesaplama.pdb
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.dll
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\ref\alan_hesaplama.dll
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.pdb
+C:\Users\DELL\Desktop\projeler_csharp\alan_hesaplama\obj\Debug\net5.0\alan_hesaplama.genruntimeconfig.cache
