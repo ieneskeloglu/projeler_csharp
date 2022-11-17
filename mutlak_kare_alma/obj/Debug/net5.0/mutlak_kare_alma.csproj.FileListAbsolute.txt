@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.exe
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.dll
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\ref\mutlak_kare_alma.dll
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\bin\Debug\net5.0\mutlak_kare_alma.pdb
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.dll
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\ref\mutlak_kare_alma.dll
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.pdb
+C:\Users\DELL\Desktop\projeler_csharp\mutlak_kare_alma\obj\Debug\net5.0\mutlak_kare_alma.genruntimeconfig.cache
