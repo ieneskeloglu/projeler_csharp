@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.exe
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.dll
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\ref\sessiz_harf.dll
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\bin\Debug\net5.0\sessiz_harf.pdb
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.dll
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\ref\sessiz_harf.dll
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.pdb
+C:\Users\DELL\Desktop\projeler_csharp\sessiz_harf\obj\Debug\net5.0\sessiz_harf.genruntimeconfig.cache
