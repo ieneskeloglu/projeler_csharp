@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.exe
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.dll
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\ref\integer_ikili_toplam.dll
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\bin\Debug\net5.0\integer_ikili_toplam.pdb
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.dll
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\ref\integer_ikili_toplam.dll
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.pdb
+C:\Users\DELL\Desktop\projeler_csharp\integer_ikili_toplam\obj\Debug\net5.0\integer_ikili_toplam.genruntimeconfig.cache
