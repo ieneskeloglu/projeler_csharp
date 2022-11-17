@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.exe
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\ref\karakter_tersten_yazdırma.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\bin\Debug\net5.0\karakter_tersten_yazdırma.pdb
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\ref\karakter_tersten_yazdırma.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.pdb
+C:\Users\DELL\Desktop\projeler_csharp\karakter_tersten_yazdırma\obj\Debug\net5.0\karakter_tersten_yazdırma.genruntimeconfig.cache
