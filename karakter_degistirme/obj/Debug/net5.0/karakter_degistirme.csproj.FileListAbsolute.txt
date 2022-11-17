@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.exe
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.deps.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.runtimeconfig.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\ref\karakter_degistirme.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\bin\Debug\net5.0\karakter_degistirme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.AssemblyInfo.cs
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\ref\karakter_degistirme.dll
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.pdb
+C:\Users\DELL\Desktop\projeler_csharp\karakter_degistirme\obj\Debug\net5.0\karakter_degistirme.genruntimeconfig.cache
